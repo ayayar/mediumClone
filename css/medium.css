@@ -1,0 +1,27 @@
+body {
+    font-family: 'PT Serif', serif;
+}
+.bg-blue{
+    background-color: #C4E2FF; 
+    
+}
+.border-bottom-dark{
+    border-bottom: 1px solid #414141;
+}
+.rounded-pill{
+    background-color: #080808;
+}
+.aside-buttons> li{
+ margin-bottom:11px ;
+}
+.text{
+    color: greenyellow;
+    
+}
+.text:hover{
+    text-decoration: none;
+    color: #C4E2FF;
+    text-shadow:#080808;
+}
+
+
